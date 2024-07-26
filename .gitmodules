@@ -1,0 +1,6 @@
+[submodule "DC_CA1"]
+	path = DC_CA1
+	url = git@github.com:bardia16/DC_CA1.git
+[submodule "DC-CA2"]
+	path = DC-CA2
+	url = git@github.com:Arash444/DC-CA2.git
